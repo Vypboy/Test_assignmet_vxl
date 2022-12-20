@@ -1,0 +1,3 @@
+fsm_automatic.c:4:6:press_ped_lag	8	static
+fsm_automatic.c:10:6:reset_pad_led	8	static
+fsm_automatic.c:16:6:fsm_automatic_run	24	static
